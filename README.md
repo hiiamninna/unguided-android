@@ -24,12 +24,12 @@
 ***Total UGD ini 50 (tanpa bonus)***
 
 **KETERANGAN**
--	Wajib menggunakan material design
+- [x] Wajib menggunakan material design
 
 **BONUS POINT**
--	Mengganti font untuk kedua aplikasi, maka nilai +2,5 -> perhatikan pada values terdapat folder font
--	Pada nomor 1, jika menggunakan NavigationUI, maka nilai +5
+- [x] Mengganti font untuk kedua aplikasi, maka nilai +2,5 -> perhatikan pada values terdapat folder font
+- [x] Pada nomor 1, jika menggunakan NavigationUI, maka nilai +5
 
 **MINUS POINT**
--	Pada nomor 2, jika tidak melakukan first commit setelah clone, maka nilai  –2,5
--	Jika terdapat penggunaan string hardcode maka nilai –2,5
+- [x] Pada nomor 2, jika tidak melakukan first commit setelah clone, maka nilai  –2,5
+- [x] Jika terdapat penggunaan string hardcode maka nilai –2,5
