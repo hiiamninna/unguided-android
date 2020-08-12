@@ -31,6 +31,9 @@ public class FoodFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_food, container, false);
 
+        //CHECK 5 (7,5)
+        //Nama Panjangnya tampil
+
         //GET FULL NAME
         TextView fullNameText = view.findViewById(R.id.fullname_text);
         String message = getArguments().getString(FULL_NAME);
@@ -41,6 +44,9 @@ public class FoodFragment extends Fragment {
             fullNameText.setText(getString(R.string.failed));
             fullNameText.setBackgroundColor(Color.parseColor("#ff0000"));
         }
+
+        //CHECK 6 (7,5)
+        //Dropdown bekerja dengan baik
 
         //DROPDOWN SNACKS
         final String[] SNACKS = new String[]{" Mie Kremes", " Oreo", " Wafer Nabati", " Taro", " Doritos"};

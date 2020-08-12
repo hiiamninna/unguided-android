@@ -1,5 +1,8 @@
 <resources>
     <!-- Base application theme. -->
+
+    <!--CHECK 2 (2,5)-->
+    <!--Pastikan parentnya MaterialComponents-->
     <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#00BCD4</item>

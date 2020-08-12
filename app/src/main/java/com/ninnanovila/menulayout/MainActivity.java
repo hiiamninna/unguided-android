@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         final TextInputEditText fullNameInput = findViewById(R.id.fullname_input);
         Button submitBtn = findViewById(R.id.submit_button);
 
+        //CHECK 4 (10)
+        //Ga harus sama, logicnya aja yg sama
         submitBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

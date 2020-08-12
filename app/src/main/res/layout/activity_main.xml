@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--CHECK 3-->
+<!--Untuk layout keduanya nilainya 10, pastikan nggak ada hardcode, kalo ada minus-->
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -75,7 +77,5 @@
             android:layout_height="wrap_content"/>
 
     </LinearLayout>
-
-
 
 </RelativeLayout>
