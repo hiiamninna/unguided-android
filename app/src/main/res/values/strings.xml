@@ -2,4 +2,15 @@
     <string name="app_name">MenuLayout</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_guest">Hello Guest!</string>
+    <string name="full_name">Full name</string>
+    <string name="age">Age</string>
+    <string name="self_desc">Hi, let me introduce my self, my name Ninna. \nWant to know more? \nKnock my social media account.</string>
+    <string name="submit">Submit</string>
+    <string name="move_detected">Move detected!</string>
+    <string name="choose_snack">Choose snack</string>
+    <string name="failed">Try again</string>
+    <string name="eat_snack">Saya suka makan </string>
+    <string name="done">Done</string>
+    <string name="back">Back</string>
 </resources>
