@@ -21,7 +21,7 @@ Dropdown bekerja dengan baik
 CHECK 7 (10) -> semuanya
 Program berjalan dengan baik
 
-Total UGD ini 50
+Total UGD ini 50 (tanpa bonus)
 
 KETERANGAN
 -	Wajib menggunakan material design
