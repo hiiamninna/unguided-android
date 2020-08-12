@@ -1,6 +1,6 @@
 ### Unguided
 
 This is an unguided project for "Pengembangan Berbasis Platform" subject :
-- Layout 
-- Material Design
+- Layout (menu-layout branch)
+- Material Design (material-final branch)
 - Persistent Data
