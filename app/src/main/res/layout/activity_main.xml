@@ -30,11 +30,18 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:targetApi="o" />
 
+    <!--TODO 2.1(5)-->
+    <!--Menjelaskan maksud dari layout recyclerview, langsung dikerjakan disini ya.-->
+    <!--Jawaban : id merupakan identitas dari recyclerview, list item merupakan bagian
+    akan berulang pada recycler view tersebut. Pada code ini list item merujuk pada item_receipt.
+    !!yang wajib dijelaskan adalah id dan list item!!
+    -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_receipt"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginVertical="16dp"
+        android:layout_marginBottom="32dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"

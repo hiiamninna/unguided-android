@@ -1,5 +1,7 @@
 <resources>
     <!-- Base application theme. -->
+    <!--TODO 1.1(5)-->
+    <!--Melakukan perubahan parent MaterialComponent-->
     <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>

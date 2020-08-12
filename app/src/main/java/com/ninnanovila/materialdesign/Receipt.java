@@ -7,6 +7,11 @@ public class Receipt {
     private String ingredients;
     private String imageUrl;
 
+    //TODO 5.1 (5)
+    //Apa perbedaan dua construtor berikut ? (Jawab dgn 2 kalimat)
+    //Jawaban :
+    //Perbedaan pada parameter, dimana yang satu tanpa parameter dan yang kedua dengan parameter.
+    //Penggunaan yang pertama lebih fleksibel karena pembuatan object bisa saja tanpa nilai terlebih dahulu.
     public Receipt() {
     }
 

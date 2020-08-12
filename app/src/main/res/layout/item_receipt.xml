@@ -11,6 +11,13 @@
     android:checkable="true"
     android:focusable="true">
 
+    <!--TODO 2.2(2,5)-->
+    <!--Apa yang kamu ketahui tentang MaterialCardView dan fitur-fiturnya?-->
+    <!--Jawaban : MaterialCardView adalah card view yang telah disediakan oleh material design dan mempunyai beberapa fitur.
+    Terdapat clickable, checkable dan focusable. Clickable berarti bisa di click,
+    checkable bisa di check, dan focusable akan menjadi focus jika merujuk pada card tersebut.
+    Pada kali ini menggunakan fitur checkable.
+    -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
