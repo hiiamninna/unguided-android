@@ -14,20 +14,19 @@
 
 *CHECK 5 (7,5) -> FoodFragment*
 - Nama Panjangnya tampil
+- Jika menggunakan activity, maka tidak dinilai bagian ini
 
 *CHECK 6 (7,5) -> FoodFragment*
 - Dropdown bekerja dengan baik
+- Jika menggunakan activity, maka tidak dinilai bagian ini
 
 *CHECK 7 (10) -> semuanya*
 - Program berjalan dengan baik
 
-***Total UGD ini 50 (tanpa bonus)***
+***Total UGD ini 50 (tanpa bonus, dengan activity dan fragment); 35 (tanpa bonus, dengan activity tanpa fragment)***
 
 **KETERANGAN**
 - [x] Wajib menggunakan material design
-
-**BONUS POINT**
-- [x] Mengganti font untuk kedua aplikasi, maka nilai +2,5 -> perhatikan pada values terdapat folder font
 
 **MINUS POINT**
 - [x] Pada nomor 2, jika tidak melakukan first commit setelah clone, maka nilai  –2,5
