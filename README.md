@@ -19,5 +19,5 @@
 
 **BONUS POINT**
 - [v] Menggunakan Material Design, maka nilai +5
-- [v] Menggunakan exception handling untuk setiap inputan +3 (harus semua, jika tidak, tidak dapat -> create, update)
-- [v] Menampilkan alert ketika akan melakukan delete +2
+- [v] Menggunakan exception handling untuk setiap inputan +2,5 (pada -> create)
+- [v] Menampilkan alert ketika akan melakukan delete +2,5
